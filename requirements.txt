@@ -1,5 +1,3 @@
-pyotp
-pycryptodome
 requests
 flask
 colorama
